@@ -1,0 +1,12 @@
+.wrapper {
+  width: 1080px;
+  margin: 0 auto;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.jpg {
+  width: 80%;
+}
